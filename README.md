@@ -9,10 +9,10 @@ Customers - Most are wholesalers (local or international)
 Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year)
 
  Problem Statements: 
-1.  performed Data visualisation 
- a. Histogram – All Numeric Variables  
- b. Bar Plot – Every Categorical Variable vs every Numerical Variable 
- k. Line chart to show the trend of data - All Numeric/Date Variables  
+1.  Performed Data visualisation 
+  a)  Histogram – All Numeric Variables  
+  b)  Bar Plot – Every Categorical Variable vs Every Numerical Variable 
+  c)  Line chart to show the trend of data - All Numeric/Date Variables  
 2. Check for missing values in all columns and replace them with the appropriate metric 
 (Mean/Median/Mode) 
 3. Remove duplicate rows 
